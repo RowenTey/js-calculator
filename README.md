@@ -1,2 +1,2 @@
-# js-calculator
-Practice project for Javascript
+# 🧮 js-calculator
+*Practice project for Javascript*
